@@ -1,3 +1,4 @@
+Zestawienie wybranych państw świata
 Country,Capital,Currency,Currency Symbol,Population
 United States,Washington D.C.,US Dollar,USD,331 002 651
 Japan,Tokyo,Yen,JPY,126 476 461
